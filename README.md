@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0520-detect-capital](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0520-detect-capital) |
 ## Math
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
