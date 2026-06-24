@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0520-detect-capital) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
