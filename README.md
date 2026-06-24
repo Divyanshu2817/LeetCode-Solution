@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0389-find-the-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
