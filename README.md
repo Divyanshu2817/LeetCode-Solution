@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
