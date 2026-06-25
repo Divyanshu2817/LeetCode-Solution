@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
