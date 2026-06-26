@@ -1,13 +1,13 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-        long long ans=1;
-        int x=max(m-1,n-1);
-        int y=min(m-1,n-1);
-        for(int i=1;i<=y;++i){
-            ans*=(x+i);
-            ans/=i;
+        vector<vector<int>> ans(m,vector<int>(n,1));
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                ans[i][j]=ans[i-1][j]+ans[i][j-1];
+            }
         }
-        return ans;
+        return ans[m-1][n-1];
     }
+
 };
