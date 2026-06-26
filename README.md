@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
