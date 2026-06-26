@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0342-power-of-four) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2413-smallest-even-multiple) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
