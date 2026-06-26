@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0520-detect-capital) |
 | [3612-process-string-with-special-operations-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3612-process-string-with-special-operations-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
