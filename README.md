@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -113,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
