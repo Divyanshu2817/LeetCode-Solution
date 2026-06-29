@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0520-detect-capital) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
