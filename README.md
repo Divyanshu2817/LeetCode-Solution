@@ -190,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0912-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
