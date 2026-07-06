@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
