@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0155-min-stack) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Memoization
 |  |
 | ------- |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
