@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0682-baseball-game) |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 | [3612-process-string-with-special-operations-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 ## Bit Manipulation
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Memoization
 |  |
