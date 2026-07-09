@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0389-find-the-difference](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0704-binary-search) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -209,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0155-min-stack) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
