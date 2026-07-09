@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0155-min-stack) |
 ## Memoization
 |  |
 | ------- |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
