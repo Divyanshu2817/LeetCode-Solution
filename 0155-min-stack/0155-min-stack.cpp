@@ -6,12 +6,11 @@ public:
     }
     
     void push(int value) {
-        if(st.empty()){
-            st.push({value,value});
+        if(!st.empty()){
+            st.push({value,min(value,st.top().second)});
         }
         else{
-            int current_min=min(value,st.top().second);
-            st.push({value,current_min});
+            st.push({value,value});
         }
     }
     
