@@ -1,127 +1,44 @@
-import java.util.*;
-
 class Solution {
-    static class Element {
-        int val;
-        int originalIdx;
-
-        Element(int val, int originalIdx) {
-            this.val = val;
-            this.originalIdx = originalIdx;
-        }
-    }
-
     public int[] pathExistenceQueries(int n, int[] nums, int maxDiff, int[][] queries) {
-        Element[] A = new Element[n];
-        int[] posInSorted = new int[n];
-        for (int i = 0; i < n; i++) {
-            A[i] = new Element(nums[i], i);
+        int m = queries.length, l = 1;
+        int[] ans = new int[m];
+        long[] sorted = new long[n];
+        for(int i = 0; i < n; i++) sorted[i] = (long)nums[i] << 32 | i;
+        Arrays.sort(sorted);
+
+        for(int i = 1; i < n; i <<= 1) l++;
+        int[][] jumps = new int[l][n];
+
+        int[] rank = new int[n];
+        int right = 0;
+        for(int i = 0; i < n; i++) {
+            rank[(int)sorted[i]] = i;
+            while(right < n && (sorted[right] >>> 32) <= (sorted[i] >>> 32) + maxDiff) right++;
+            jumps[0][i] = right - 1;
         }
-
-        // Sort elements by their values
-        Arrays.sort(A, (a, b) -> Integer.compare(a.val, b.val));
-        for (int i = 0; i < n; i++) {
-            posInSorted[A[i].originalIdx] = i;
+        for(int i = 1; i < l; i++) {
+            for(int j = 0; j < n; j++) jumps[i][j] = jumps[i - 1][jumps[i - 1][j]];
         }
-
-        int LOG = 18; // Since N <= 10^5, 2^17 = 131072
-        int[][] up = new int[LOG][n];
-        int[][] down = new int[LOG][n];
-
-        // 1. Compute 2^0 jumps (base cases) using binary search
-        for (int i = 0; i < n; i++) {
-            // Forward greedy jump: largest element <= A[i].val + maxDiff
-            int targetValUp = A[i].val + maxDiff;
-            int low = i, high = n - 1, bestUp = i;
-            while (low <= high) {
-                int mid = (low + high) >>> 1;
-                if (A[mid].val <= targetValUp) {
-                    bestUp = mid;
-                    low = mid + 1;
-                } else {
-                    high = mid - 1;
-                }
+        for(int i = 0; i < m; i++) {
+            int a = rank[queries[i][0]], b = rank[queries[i][1]];
+            if(a > b) {
+                int temp = a;
+                a = b;
+                b = temp;
             }
-            up[0][i] = bestUp;
-
-            // Backward greedy jump: smallest element >= A[i].val - maxDiff
-            int targetValDown = A[i].val - maxDiff;
-            low = 0; high = i; int bestDown = i;
-            while (low <= high) {
-                int mid = (low + high) >>> 1;
-                if (A[mid].val >= targetValDown) {
-                    bestDown = mid;
-                    high = mid - 1;
-                } else {
-                    low = mid + 1;
-                }
-            }
-            down[0][i] = bestDown;
+            ans[i] = jumps[l - 1][a] < b ? -1 : calcJumps(jumps, a, b, l);
         }
-
-        // 2. Build the binary lifting tables
-        for (int k = 1; k < LOG; k++) {
-            for (int i = 0; i < n; i++) {
-                up[k][i] = up[k - 1][up[k - 1][i]];
-                down[k][i] = down[k - 1][down[k - 1][i]];
-            }
+        return ans;
+    }
+    private int calcJumps(int[][] jumps, int a, int b, int right) {
+        if(a == b) return 0;
+        if(jumps[0][a] >= b) return 1;
+        int left = 0;
+        while(left < right) {
+            int mid = left + right + 1 >>> 1;
+            if(jumps[mid][a] < b) left = mid;
+            else right = mid - 1;
         }
-
-        // 3. Answer each query in O(log N)
-        int[] result = new int[queries.length];
-        for (int i = 0; i < queries.length; i++) {
-            int u = queries[i][0];
-            int v = queries[i][1];
-
-            if (u == v) {
-                result[i] = 0;
-                continue;
-            }
-
-            int idxU = posInSorted[u];
-            int idxV = posInSorted[v];
-
-            if (A[idxU].val == A[idxV].val) {
-                result[i] = 1; // Same value but different indices mean direct edge
-                continue;
-            }
-
-            int steps = 0;
-            if (A[idxU].val < A[idxV].val) {
-                // Lift upwards towards larger values
-                for (int k = LOG - 1; k >= 0; k--) {
-                    int nextIdx = up[k][idxU];
-                    if (A[nextIdx].val < A[idxV].val) {
-                        steps += (1 << k);
-                        idxU = nextIdx;
-                    }
-                }
-                // Check if one final step can bridge or reach the target
-                int finalIdx = up[0][idxU];
-                if (A[finalIdx].val >= A[idxV].val) {
-                    result[i] = steps + 1;
-                } else {
-                    result[i] = -1;
-                }
-            } else {
-                // Lift downwards towards smaller values
-                for (int k = LOG - 1; k >= 0; k--) {
-                    int nextIdx = down[k][idxU];
-                    if (A[nextIdx].val > A[idxV].val) {
-                        steps += (1 << k);
-                        idxU = nextIdx;
-                    }
-                }
-                // Check if one final step can bridge or reach the target
-                int finalIdx = down[0][idxU];
-                if (A[finalIdx].val <= A[idxV].val) {
-                    result[i] = steps + 1;
-                } else {
-                    result[i] = -1;
-                }
-            }
-        }
-
-        return result;
+        return (1 << left) + calcJumps(jumps, jumps[left][a], b, left);
     }
 }
