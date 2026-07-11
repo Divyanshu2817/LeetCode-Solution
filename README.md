@@ -198,10 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
+| [2685-count-the-number-of-complete-components](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
+| [2685-count-the-number-of-complete-components](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -231,10 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
