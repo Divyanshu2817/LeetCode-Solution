@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0389-find-the-difference](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [1331-rank-transform-of-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
