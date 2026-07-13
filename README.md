@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 ## Union-Find
 |  |
 | ------- |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
