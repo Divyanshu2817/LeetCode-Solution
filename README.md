@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0682-baseball-game) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0134-gas-station) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Queue
 |  |
