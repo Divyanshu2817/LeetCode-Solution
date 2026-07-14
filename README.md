@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2413-smallest-even-multiple) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2413-smallest-even-multiple) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Combinatorics
 |  |
 | ------- |
