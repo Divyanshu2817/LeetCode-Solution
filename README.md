@@ -215,11 +215,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0112-path-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0112-path-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Bucket Sort
@@ -277,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
