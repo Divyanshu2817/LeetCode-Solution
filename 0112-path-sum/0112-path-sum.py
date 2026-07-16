@@ -16,7 +16,7 @@ class Solution(object):
         targetSum-=root.val
         if not root.left and not root.right:
             return targetSum==0
-        left=self.hasPathSum(root.left,targetSum)
-        right=self.hasPathSum(root.right,targetSum)
-        return left or right
+        '''left=self.hasPathSum(root.left,targetSum)
+        right=self.hasPathSum(root.right,targetSum)'''
+        return self.hasPathSum(root.left,targetSum) or self.hasPathSum(root.right,targetSum)
         
