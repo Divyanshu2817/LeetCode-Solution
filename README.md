@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 | [3612-process-string-with-special-operations-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
+| [1260-shift-2d-grid](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Recursion
 |  |
