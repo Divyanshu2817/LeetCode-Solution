@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0617-merge-two-binary-trees](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0617-merge-two-binary-trees](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Bucket Sort
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0617-merge-two-binary-trees](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0617-merge-two-binary-trees](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
