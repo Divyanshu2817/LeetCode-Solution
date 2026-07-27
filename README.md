@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0617-merge-two-binary-trees](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [2596-check-knight-tour-configuration](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2685-count-the-number-of-complete-components) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [2685-count-the-number-of-complete-components](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
