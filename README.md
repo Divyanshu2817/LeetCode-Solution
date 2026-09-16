@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0704-binary-search) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -380,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0207-course-schedule) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
