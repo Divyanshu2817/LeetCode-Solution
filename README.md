@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/2413-smallest-even-multiple) |
@@ -397,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0455-assign-cookies) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
