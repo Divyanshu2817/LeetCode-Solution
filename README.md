@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0056-merge-intervals) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
