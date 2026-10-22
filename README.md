@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0627-swap-sex-of-employees) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
 ## Linked List
 |  |
 | ------- |
