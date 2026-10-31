@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Divyanshu2817/LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
